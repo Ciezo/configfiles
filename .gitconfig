@@ -1,0 +1,18 @@
+[core]
+	editor = "" --wait
+	fsmonitor = true
+[user]
+	email = ""
+	name = Cloyd Van
+[alias]
+	chk = checkout
+	com = commit
+	ad = add
+	st = status
+	br = branch
+	rt = remote
+	p = push
+	cr = gc
+	cmes = commit -m
+[credential ""]
+	provider = generic
